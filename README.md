@@ -1,5 +1,5 @@
 # Research-Lab-Website
-## Overview
+# Overview
 This repository contains the source code and documentation for the Research Lab Website project. The project focuses on developing a comprehensive website for a research lab, providing a platform for collaboration, information sharing, and efficient data management. The development process involves learning essential web development frameworks, creating an Entity-Relationship Diagram (ERD), building a MySQL database, and implementing the frontend and backend components of the website.
 
 # Entity-Relationship Diagram (ERD) Overview
