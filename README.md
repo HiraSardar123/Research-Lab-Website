@@ -29,11 +29,10 @@ Effectively balancing learning new concepts, web page development, and ERD desig
 ## Online Learning of Web Development Concepts
 
 The transition from theoretical understanding to practical implementation posed a challenge, demanding dedicated effort and hands-on practice.
-# Modification to Initial Project Plan
-Initial Project Idea Change
-The project underwent a significant modification, shifting from a social media platform or research paper analysis system to the development of a research lab website. This decision aligns with the specific needs of the target audience, reflecting a strategic pivot towards fostering collaboration and information sharing within the research community.
+
 ## Entity-Relationship Diagram (ERD) Overview
 The ERD defines entities, relationships, and attributes crucial for effective data management. Key entities include Researcher, User, Publication, Lab Head, and Project, with various relationships and attributes outlined.
+![WhatsApp Image 2024-01-12 at 23 13 29_13bcee9c](https://github.com/HiraSardar123/Research-Lab-Website/assets/118585191/3acee304-cbc8-439a-bb30-20428b35307e)
 
 # Methodology
 ## Database Schema Development
